@@ -1,0 +1,11 @@
+{
+  "api_url": "https://qca-cricket.duckdns.org/cissp/api/v1",
+  "app_version_min": "1.0.0",
+  "maintenance": false,
+  "maintenance_message": "",
+  "force_update": false,
+  "update_url": "",
+  "issued_at": "2026-05-30",
+  "expires_at": "2027-05-30",
+  "sig": "a60177d9bd36e56e8536b0e35825b0200f5e8053295dd83be5a64e510daeecdf"
+}
